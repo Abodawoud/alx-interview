@@ -1,4 +1,20 @@
 # alx-interview
+
+## How to run the code
+  first clone the repo
+  ```bash
+  git clone https://github.com/Abodawoud/alx-interview.git
+  ```
+  second cd into the directory
+  ```bash
+  cd alx-interview
+  ```
+  third run the code
+  ```bash
+    chmod +x 0-main.py
+    ./0-main.py
+  ```
+
 ## Solutions
 
 | Problem_Description                            | Main                                              | Solution                                                     | Time Complexity  | Space Complexity  |
